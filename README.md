@@ -1,5 +1,5 @@
 # taichi
-Taichi usage example.
+Taichi usage example. More detail about [taichi](https://github.com/taichi-dev/taichi).
 
 ## primes count
 
